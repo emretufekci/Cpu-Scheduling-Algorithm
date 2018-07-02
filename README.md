@@ -17,7 +17,7 @@ Detail of this menu showed below.
 
 This project is mainly offered only source code, so for using this project you must compile it. Open Terminal and run that code.
 ```
-    gcc -o <filename> -o cpuSchedulingAlgorithm.c 
+    gcc -o <filename> cpuSchedulingAlgorithm.c 
 ```
 After run this code, you should have a file with a \<filename> name.
     
